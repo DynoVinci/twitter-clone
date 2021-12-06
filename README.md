@@ -1,13 +1,16 @@
-# portfolio
-This portfolio is a small project using HTML , CSS, BootStrap, I will be using this to showcase my projects !
-[Live Heroku Deployment](https://portfolio-akshaytech.herokuapp.com/#Projects)
+#Twitter Clone
 
-## Technologies Used
-* HTML
-* CSS
+This is my Twitter Clone Project Based On Django Forum App
 
-# Installation
-* No need to install any software , just open up index.html
+[Live Heroku Development] (https://twitter-clone-darris.herokuapp.com/)
 
-# How to use ?
-use this template to build your own portfolio.
+
+##Technologies Used
+*HTML
+*CSS
+*Django
+*Cloudinary
+
+#How to use?
+
+Use this to build your own twitter clone
