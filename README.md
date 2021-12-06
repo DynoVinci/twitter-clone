@@ -2,7 +2,7 @@
 
 This is my Twitter Clone Project Based On Django Forum App
 
-[Live Heroku Development] (https://twitter-clone-darris.herokuapp.com/)
+[Live Heroku Deployment] (https://twitter-clone-darris.herokuapp.com/)
 
 
 ##Technologies Used
